@@ -30,13 +30,3 @@ Verifica se o valor é nulo. Se a opção isPropert estiver definido a função 
 | :-------      | ----:			| :---: 	|
 | value    		| sem tipagem	|  não	 	|
 | isPropert     | booleano		|  sim  	|
-
-#### math [Object]
-	
- **Descrição**
-Funções 'Matemáticas' Personalizadas.
-
-| Parametro     | type 			| Opcional  |
-| :-------      | ----:			| :---: 	|
-| value    		| sem tipagem	|  não	 	|
-| isPropert     | booleano		|  sim  	|
